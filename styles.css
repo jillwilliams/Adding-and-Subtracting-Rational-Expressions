@@ -1,0 +1,28 @@
+body {
+    margin: 25px;
+    font-family: "Dancing Script";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    color: rgb(0,160,176);
+    background-color: rgb(106,74,60);
+    text-shadow: 1px 1px 1px black;
+}
+h1 {
+    font-size: 1.5rem;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+}
+#pic1 {
+    width: 30%;
+    height: auto;
+    border: 1px deeppink solid;
+    margin: 15px 35%;
+}
+iframe {
+    margin: 15px 33%;
+    border: 1px deeppink solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
